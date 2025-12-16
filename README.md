@@ -9,7 +9,7 @@ This project analyzes e-commerce sales data using Excel and Tableau to uncover s
 - Tableau (Data Visualization & Dashboard)
 
 ## 📁 Dataset
-- Source: Kaggle – Superstore Sales Dataset
+- Source:(Kaggle)
 - Format: Excel (.xlsx)
 
 ## 📈 Key Insights
