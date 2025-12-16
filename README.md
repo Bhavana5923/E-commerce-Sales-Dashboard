@@ -1,6 +1,5 @@
 # E-commerce-Sales-Dashboard
 Excel and Tableau based E-commerce Sales Analysis Dashboard
-# E-commerce Sales Dashboard
 
 ## 📊 Project Overview
 This project analyzes e-commerce sales data using Excel and Tableau to uncover sales trends, customer behavior, and regional performance.
@@ -28,5 +27,9 @@ This project analyzes e-commerce sales data using Excel and Tableau to uncover s
 The dashboard provides actionable insights to support data-driven business decisions.
 
 ## 🖼 Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+ ### 6. Screenshots / Demos
+Show what the dashboard looks like.
+### Home Page
+![Home Page](https://github.com/Bhavana5923/E-commerce-Sales-Dashboard/blob/main/DashBoard.png)
+
 
